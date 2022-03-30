@@ -33,7 +33,7 @@ void erotosthenes_sieve(int n, int a[n])
 void out_put(int n, int a[n])
 {
   int i;
-  printf("Prime numbers are:\n");
+  printf("Prime Numbers are:\n");
   for(i=0;i<n;i++)
     printf("%d ",a[i]);
 }
