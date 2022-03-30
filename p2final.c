@@ -16,7 +16,7 @@ void output(float x1, float y1, float x2, float y2,float x3, float y3, float ist
 if(istriangle==0)
   printf("the given points %.1f %.1f  %.1f  %.1f  %.1f  %.1f  does not form a triangle\n",x1,x2,x3,y1,y2,y3);
 else
-    printf("the given points %.1f %.1f  %.1f  %.1f  %.1f  %.1f  forms a triangle\n",x1,x2,x3,y1,y2,y3);
+    printf("the given Points %.1f %.1f  %.1f  %.1f  %.1f  %.1f  forms a triangle\n",x1,x2,x3,y1,y2,y3);
   }
 int main()
 {
