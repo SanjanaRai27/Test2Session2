@@ -20,7 +20,7 @@ void output(int n, int is_prime)
 {
   if(is_prime<2)
   printf
-    ("the given number '%d' is prime number\n",n);
+    ("The given number '%d' is prime number\n",n);
   else
   //if(is_prime>2);
   printf("the given number '%d' is not prime number\n",n); 
