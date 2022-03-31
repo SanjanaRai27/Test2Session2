@@ -2,7 +2,7 @@
 #include<math.h>
 void input(float *x1,float *y1,float *x2,float *y2)
 {
-  printf("enter the values of x1,x2,y1,y2\n");
+  printf("Enter the values of x1,x2,y1,y2\n");
   scanf("%f %f %f %f",x1,x2,y1,y2);
 }
 void find_distance(float x1, float y1,float x2, float y2,float *area)
